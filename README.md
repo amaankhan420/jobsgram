@@ -83,5 +83,5 @@ lib/
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/yourusername/jobsgram.git
+   git clone https://github.com/amaankhan420/jobsgram.git
    cd jobsgram
